@@ -1,0 +1,21 @@
+{
+"nombre" : "quiz Lenguajes #8761",
+"preguntas" :
+[
+{
+"enunciado" : "Cual es su compositor favorito?",
+"opciones" : ["Mozart", "Tchaikovsky", "Stravinsky", "Beethoven"],
+"correcta" : "0"
+},
+{
+"enunciado" : "Que es más malo?",
+"opciones" : ["El TEC Digital","Palmarla","El Saprissa","El regueton"],
+"correcta" : "3"
+},
+{
+"enunciado" : "Quien o que es más poderoso?",
+"opciones" : ["Cantinflas","Goku","El coco","La musica clasica"],
+"correcta" : "3"
+}
+]
+}
