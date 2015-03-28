@@ -1,0 +1,29 @@
+{
+  "name": "Quiz Show",
+  "version": "0.1.0",
+  "description": "A sample Node.js app using Express 4",
+  "main": "index.html",
+  "scripts": {
+    "start": "index.html"
+  },
+  "dependencies": {
+    "express": "^4.0.0"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lumontero/mozart"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "Mariano Montero",
+  "contributors": [
+    "Mariano Montero <teromb93@gmail.com> (https://www.facebook.com/mariano.montero.1993)"
+  ],
+  "license": "MIT"
+}
